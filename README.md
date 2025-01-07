@@ -31,3 +31,29 @@ The project requires the following libraries and frameworks:
 git clone https://github.com/VStr20/Adversarial-Audio-Synthesis.git
 cd Adversarial-Audio-Synthesis
 
+Adversarial-Audio-Synthesis/
+│
+├── PianoGAN.ipynb                 # Notebook for PianoGAN implementation
+├── SpectoGAN.ipynb                # Notebook for SpectoGAN implementation
+├── pianogan.py                    # Script for PianoGAN
+├── spectogan.py                   # Script for SpectoGAN
+├── Adversarial-Audio-Synthesis.pdf  # Main project documentation
+├── Report_PianoGAN_SpectoGAN.pdf  # Detailed report on both models
+├── video.mp4                      # Demo video showcasing results
+└── README.md                      # Project documentation
+
+## Usage
+
+### PianoGAN
+- Open the `PianoGAN.ipynb` notebook.
+- Follow the instructions to preprocess data, train the model, and generate piano audio samples.
+
+### SpectoGAN
+- Open the `SpectoGAN.ipynb` notebook.
+- Use the notebook to train and generate audio from spectrograms.
+
+### Python Scripts
+For command-line execution, use the corresponding Python scripts:
+- `pianogan.py` for PianoGAN training and generation.
+- `spectogan.py` for SpectoGAN.
+
