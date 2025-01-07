@@ -19,7 +19,7 @@ Adversarial-Audio-Synthesis/
 ├── Report_PianoGAN_SpectoGAN.pdf  # Detailed report on both models
 ├── video.mp4                      # Demo video showcasing results
 └── README.md                      # Project documentation
-
+```
 
 ## Usage
 
