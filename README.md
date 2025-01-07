@@ -8,6 +8,7 @@ This repository explores adversarial approaches to audio synthesis using GAN-bas
 - Interactive Jupyter notebooks for model exploration and experimentation.
 - Supplementary reports and a demo video showcasing the results.
 
+```
 Adversarial-Audio-Synthesis/
 │
 ├── PianoGAN.ipynb                 # Notebook for PianoGAN implementation
@@ -18,6 +19,7 @@ Adversarial-Audio-Synthesis/
 ├── Report_PianoGAN_SpectoGAN.pdf  # Detailed report on both models
 ├── video.mp4                      # Demo video showcasing results
 └── README.md                      # Project documentation
+
 
 ## Usage
 
