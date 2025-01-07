@@ -8,29 +8,6 @@ This repository explores adversarial approaches to audio synthesis using GAN-bas
 - Interactive Jupyter notebooks for model exploration and experimentation.
 - Supplementary reports and a demo video showcasing the results.
 
-## Table of Contents
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Structure](#structure)
-- [Examples](#examples)
-- [References](#references)
-- [License](#license)
-
-## Requirements
-The project requires the following libraries and frameworks:
-- Python 3.8+
-- PyTorch
-- NumPy
-- Matplotlib
-- librosa
-- Jupyter Notebook
-
-
-```bash
-git clone https://github.com/VStr20/Adversarial-Audio-Synthesis.git
-cd Adversarial-Audio-Synthesis
-
 Adversarial-Audio-Synthesis/
 │
 ├── PianoGAN.ipynb                 # Notebook for PianoGAN implementation
@@ -56,4 +33,11 @@ Adversarial-Audio-Synthesis/
 For command-line execution, use the corresponding Python scripts:
 - `pianogan.py` for PianoGAN training and generation.
 - `spectogan.py` for SpectoGAN.
+
+
+
+```bash
+git clone https://github.com/VStr20/Adversarial-Audio-Synthesis.git
+cd Adversarial-Audio-Synthesis
+
 
